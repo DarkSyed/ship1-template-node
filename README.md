@@ -73,8 +73,8 @@ After setup, serve the project and verify you can delete by timestamp:
 npx http-server src/ship1 -p 8080
 # then open http://localhost:8080
 (For Hard Mode tests, see DEVELOPMENT.md and run npm test.)
-
-Submit Your Work
+```
+## Submit Your Work
 Repository URL: https://github.com/YOUR-USERNAME/edge-f25-ship1-YOUR-NAME
 
 Branch name: firstname-lastname
